@@ -1,21 +1,25 @@
-[🇬🇧 Click here for English version](index.html)
+# 12345! - Destek ve Gizlilik Politikası
 
-# 12345! - Destek Sayfası
+Tempolu zar bulmaca oyunu **12345!**'in resmi destek sayfasına hoş geldiniz.
 
-12345! oyununu oynadığınız için teşekkür ederiz! Amacımız size en akıcı ve eğlenceli bulmaca deneyimini sunmaktır. 
+## Destek İçin İletişim
+Herhangi bir hata veya çökmeyle karşılaşıyorsanız ya da paylaşmak istediğiniz bir geri bildiriminiz varsa, lütfen doğrudan geliştiriciyle iletişime geçin:
+* **E-posta:** [sezentunahan@outlook.com]
 
-Eğer oyunda bir sorun yaşıyorsanız, bir hata (bug) bulduysanız veya oyunumuzu daha da iyileştirebilmemiz için geri bildirimde bulunmak istiyorsanız, size yardım etmek için buradayız.
+Sorunun hızlıca incelenebilmesi için lütfen e-postanıza cihaz modelinizi ve iOS sürümünüzü ekleyin.
 
-## Bize Ulaşın
-Her türlü soru, görüş ve destek talebiniz için bizimle e-posta yoluyla iletişime geçebilirsiniz:
-**E-posta:** [E-posta adresini buraya yaz]
+---
 
-Maillerinize en kısa sürede dönüş yapmaya çalışıyoruz. E-posta gönderirken cihaz modelinizi ve iOS sürümünüzü belirtmeniz, sorunu daha hızlı çözmemize yardımcı olacaktır.
+## Gizlilik Politikası
+**Son Güncelleme: Nisan 2026**
 
-## Sıkça Sorulan Sorular (SSS)
+Tunahan Sezen ("Geliştirici"), 12345! uygulamasını Ücretsiz bir uygulama olarak geliştirmiştir. Bu HİZMET, Geliştirici tarafından hiçbir ücret talep edilmeden sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
-**Oyunu nasıl oynarım?**
-5x5'lik ekranda zarları 1, 2, 3, 4 ve 5 sırasıyla parmağınızla kaydırarak birleştirin. Süreniz bitmeden en yüksek skoru yapmaya çalışın!
+**Veri Toplama**
+Geliştirici; herhangi bir kişisel veriyi veya kullanıcı bilgisini aktif olarak toplamaz, saklamaz veya paylaşmaz. Oyun tamamen yerel cihazınızda çalışır. 
 
-**Oyun içi ilerlemem kayboldu, ne yapmalıyım?**
-Oyun skorlarınız Game Center üzerinden kaydedilir. Cihazınızda Game Center hesabınıza giriş yaptığınızdan emin olun.
+**Bu Gizlilik Politikasındaki Değişiklikler**
+Geliştirici, Gizlilik Politikasını zaman zaman güncelleyebilir. Bu nedenle, herhangi bir değişiklik olup olmadığını görmek için bu sayfayı periyodik olarak gözden geçirmeniz tavsiye edilir.
+
+**İletişim**
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, yukarıda belirtilen destek e-postası aracılığıyla iletişime geçmekten çekinmeyin.
